@@ -1,0 +1,15 @@
+Revision history for Perl extension HTML::ArrayGenerator.
+
+1.0.2	Thu 8-7-2003 01:14
+	
+	Fixed a bug in the Makefile.
+	"PREREQ_PM" needs 'HTML:Stream'
+
+
+1.0.1	Tue 7-22-2003 23:40
+	
+	Fixed a bug in the generation of a HTML page.
+	The page's title didn't appeared in the page.
+	
+1.0	Thu 7-10-2003 0:35
+
